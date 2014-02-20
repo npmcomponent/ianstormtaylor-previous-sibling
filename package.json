@@ -1,0 +1,15 @@
+{
+  "name": "ianstormtaylor-previous-sibling",
+  "description": "Get the previous sibling of an element.",
+  "version": "0.0.1",
+  "keywords": [
+    "element",
+    "traverse",
+    "previous",
+    "sibling"
+  ],
+  "dependencies": {
+    "yields-traverse": "git://github.com/npmcomponent/yields-traverse.git"
+  },
+  "license": "MIT"
+}
